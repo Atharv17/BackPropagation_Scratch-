@@ -44,8 +44,8 @@
  
  Implemented three types of Optimizers: 
  
- a) Vanilla Update 
- b) Momentum Update 
- c) Adam Update 
+ a) Vanilla Update //
+ b) Momentum Update  //
+ c) Adam Update  //
  
  
